@@ -11,8 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>../../masterly-core-service-main/masterly-core-service-main</module>
-        <module>../../masterly-web-service-main/masterly-web-service-main</module>
+        <module>../masterly-core-service-main</module>
+        <module>../masterly-web-service-main</module>
     </modules>
 
     <properties>
